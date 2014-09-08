@@ -1,0 +1,47 @@
+/* Manufacturer teaser view styling */
+.view-articles .group-left {
+	width: 33%;
+}
+.view-articles .ds-2col-stacked .group-right {
+	width: 67%;
+}
+.view-articles .ds-2col-stacked .group-right h2 a {
+	font-size: 36px;
+}
+.view-articles .ds-2col-stacked .group-header {
+	margin-top: 10px;
+}
+.view-articles .ds-2col-stacked .group-footer {
+	margin-left: 10px;
+	border-top: 1px solid #ccc;
+}
+
+/* Superfish menu stying */
+#superfish-1 {
+	position: absolute;
+	background: transparent;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+#superfish-1 > ul {
+	background: transparent;
+	position: relative !important;
+}
+#superfish-1 #menu-471-1 > ul {
+	background-color: transparent;
+}
+#superfish-1 > li {
+	background: transparent;
+	border-radius: 5px 5px 0 0;
+	margin-right: 5px;
+}
+#superfish-1 > li > a {
+	background: linear-gradient(gray, black);
+	border-radius: 5px 5px 0 0;
+	color: white;
+	font-size: 14px;
+	padding: 8px 12px 8px 12px;
+}
+.view-home-slides {
+	margin-top: 15px;
+}
