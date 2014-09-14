@@ -33,7 +33,7 @@
 #superfish-1 > li {
 	background: transparent;
 	border-radius: 5px 5px 0 0;
-	margin-right: 5px;
+	margin-right: 2px;
 }
 #superfish-1 > li > a {
 	background: linear-gradient(gray, black);
