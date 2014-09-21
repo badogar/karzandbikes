@@ -45,3 +45,42 @@
 .view-home-slides {
 	margin-top: 15px;
 }
+#block-views-latest-news-block {
+	float: left;
+	width: 345px;
+}
+.view-latest-news {
+	margin-top: 5px;
+}
+.view-latest-news .views-row {
+	float: left;
+	margin-right: 2px;
+}
+.view-latest-news .views-row .views-field-title a {
+	font-weight: bold;
+}
+#block-views-upcoming-cars-view-block {
+	float: left;
+	width: 345px;
+	margin-left: 10px;
+}
+.view-upcoming-cars-view .views-row {
+	float: left;
+	margin-right: 2px;
+}
+.view-upcoming-cars-view {
+	margin-top: 5px;
+}
+.view-upcoming-cars-view .views-row .views-field-title a {
+	font-weight: bold;
+}
+.view-latest-events .views-row {
+	width: 345px;
+	float: left;
+}
+.view-latest-events .views-row .views-field-title a {
+	font-weight: bold;
+}
+#block-views-latest-events-block {
+	float: left;
+}
